@@ -1,0 +1,115 @@
+.nav_yell:link {
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 12px; 
+	COLOR: #ffffff; 
+	FONT-STYLE: normal;
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	TEXT-DECORATION: none
+}
+.nav_yell:visited {
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 12px; 
+	COLOR: #ffffff; 
+	FONT-STYLE: normal;
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	TEXT-DECORATION: none
+}
+
+.nav_yell:hover {
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 12px; 
+	COLOR: #FFFF66; 
+	FONT-STYLE: normal;
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	TEXT-DECORATION: none
+}
+.nav_yell:active {
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 12px; 
+	COLOR: #ffffff; 
+	FONT-STYLE: normal;
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	TEXT-DECORATION: none
+}
+
+.bodytext {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.record_headline {
+	FONT-WEIGHT: bold; FONT-SIZE: 36px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.bodytextBOLD {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 14px;
+	COLOR: #000000;
+	LINE-HEIGHT: 18px;
+	FONT-STYLE: normal;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+	text-transform: none;
+}
+.bodytextSMALL {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.Rate_headline {
+	FONT-WEIGHT: 900; FONT-SIZE: 24px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.Rate_red_subhead {
+	FONT-WEIGHT: 900; FONT-SIZE: 14px; COLOR: #cc0033; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.bodytext_BLACK {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 17px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.bodytextSMALLBlack {
+	FONT-SIZE: 10px;
+	COLOR: #000000;
+	FONT-STYLE: normal;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+	line-height: normal;
+}
+.bodytextBOLDBlack {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; COLOR: #333333; LINE-HEIGHT: 28px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.bodytextSMALLEST {
+	FONT-SIZE: 9px; COLOR: #ffffff; LINE-HEIGHT: 15px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.Headline_top {
+	FONT-WEIGHT: 600; FONT-SIZE: 16px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.Rate_blue_glassyhead {
+	FONT-WEIGHT: 900; FONT-SIZE: 14px; COLOR: #006699; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.bodytextSMALLBlackItal {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.bodytextSMALLBLUE {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.bodytextSMALLEST_BLUE {
+	FONT-SIZE: 9px; COLOR: #999999; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.bodytextSMALLBlbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #666666; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.bodytextBOLDblue {
+	FONT-WEIGHT: bolder; FONT-SIZE: 14px; COLOR: #003366; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.bodytext_BLACKbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; LINE-HEIGHT: 20px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.bodytext_BLACKlarger { FONT-WEIGHT: normal; FONT-SIZE: 22px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none }
+.bodytextBOLDGREY { FONT-WEIGHT: bolder; FONT-SIZE: 12px; COLOR: #999999; LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none }
+.bodytext_BLACKlargerWHITE { FONT-WEIGHT: normal; FONT-SIZE: 16px; COLOR: #FFFFFF; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none }
+.bodytextWHITE { FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none }
+.bodytextBOLDBlacklighter { FONT-WEIGHT: lighter; FONT-SIZE: 28px; COLOR: #FFFFFF; LINE-HEIGHT: 28px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none }
+.bodytext_BLACKmedium { FONT-WEIGHT: bolder; FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none }
+.bodytext_BLACKmediumBOLD { FONT-WEIGHT: bolder; FONT-SIZE: 16px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none }
+.bodytextSMALLCopy { FONT-WEIGHT: bolder; FONT-SIZE: 24px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none }
+.bodytext_BLACKCopy { FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #632C10; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none }
+.bodytextBOLDwhitelighter { FONT-WEIGHT: lighter; FONT-SIZE: 18px; COLOR: #FFFFFF; LINE-HEIGHT: 28px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none }
+.bodytextBOLDBlacklighter2 { FONT-WEIGHT: lighter; FONT-SIZE: 28px; COLOR: #006699; LINE-HEIGHT: 28px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none }
+.bodytextBOLDblulighter { FONT-WEIGHT: lighter; FONT-SIZE: 18px; COLOR: #006699; LINE-HEIGHT: 28px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none }
+.bodytext_BLACKMEDIUM {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 13px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
